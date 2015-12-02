@@ -3,7 +3,7 @@
 
 ###Download : http://pan.baidu.com/s/1mgyD2R2
 
-###android需要做的装备
+###android需要做的准备
 	1.手机已经root
 	2.安装busybox或c4droid
 	3.终端模拟器(Android Terminal Emulator)
